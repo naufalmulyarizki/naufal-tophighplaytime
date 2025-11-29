@@ -12,6 +12,7 @@ Script peringkat tertinggi playtime / waktu lama bermain di server (REDM)
 # Installation
 - Download Resource
 - Masukkan ke dalam resource kamu
+- insert sql ke database kamu
 - refresh dan start script
 
 ## Preview Script
